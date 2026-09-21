@@ -1,0 +1,19 @@
+// The addoninfo.txt file is a metadata file that is required by all Left 4 Dead Add-ons. 
+
+
+"AddonInfo"
+{
+	addonSteamAppID		550
+        addontitle		"Tank Metal Theme"                                     // Add-on title that shows up in Add-ons list. ~20 chars max
+        addonversion	        1.0                                             // Add-on version.
+        addontagline		"sound mod for l4d2"	        // Add-on tagline or wrap-up- a short description. ~100 chars max
+	addonauthor 		"Ghast"                                         // Name/alias of the author
+
+	addonContent_Campaign		0 	                                //LEAVE THIS ALONE.
+
+	addonURL0 "0"	//An html home page for the add-on that includes a download link.
+
+	// short description that appears in the Add-on list screen...
+	addonDescription "The original Tank music with a hint of Metal."
+
+}
